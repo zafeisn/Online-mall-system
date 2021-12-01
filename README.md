@@ -107,11 +107,4 @@
 
  
 
-
-#### 十一、不足点  
-1、新增商品不能在最前面显示  
-2、商品图片未修改后不能获取原来的图片  
-3、用户和管理员管理系统未完善，如新增、删除等功能  
-4、删除时没有进行删除信息提示功能  
-
-#### 十二、The above HTML, css, images, js are all downloaded from the Internet，not written by myself
+#### 十一、The above HTML, css, images, js are all downloaded from the Internet，not written by myself
